@@ -1,10 +1,11 @@
-- 👋 Hi, I’m @JetSquirrel
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+### Hi, I'm Jet 👋
 
-<!---
-JetSquirrel/JetSquirrel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+SRE | Open Source Developer | AWS Community Builder
+
+- Currently working as an SRE.
+- Core member of AWS User Group China, focused on Observability.
+- Interested in Observability (O11y), AIOps, AI Security, and Cloud Native.
+- Building open-source tools for data analytics, security, and AI-powered workflows.
+- Working primarily with Rust, Go, Python, Kubernetes, and AWS.
+
+**Projects:** [DuckLocal](https://github.com/JetSquirrel/DuckLocal) · [CloudBridge](https://cloudbridge.jetsquirrel.cloud) · [Khonsu Graph](https://nyxlab.com)
